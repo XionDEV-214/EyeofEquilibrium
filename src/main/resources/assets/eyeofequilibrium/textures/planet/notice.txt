@@ -1,0 +1,2 @@
+Planet textures are taken from GTNewHorizons/gtneioreplugin (LGPL v3.0 or later):
+https://github.com/GTNewHorizons/gtneioreplugin

@@ -1,0 +1,12 @@
+{
+  "eye_of_equilibrium": {
+    "sounds": [
+      {
+        "name": "eyeofequilibrium:eye_of_equilibrium",
+        "type": "file",
+        "stream": false
+      }
+    ],
+    "subtitle": "eyeofequilibrium.subtitle.eye_of_equilibrium"
+  }
+}

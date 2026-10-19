@@ -1,0 +1,43 @@
+{
+    "block.eyeofequilibrium.eye_of_equilibrium": "평형의 눈",
+
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.0": "§7§o포획된 항성을 중심으로 완벽한 균형을 이룬 소우주입니다.",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.1": "§7항성 물질 레시피는 §b5시간§7 주기로 진행됩니다.",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.2": "§7선택한 광맥은 사이클마다 광물별 §b1,024,000§7개의 원광을 추가로 산출하며, 전력 소모는 늘지 않습니다.",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.3": "§7시공간 압축: 티어당 출력 §a+25%%§7, 광석 생산량 §a+10%%",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.4": "§7시간 가속: 티어당 광석 생산량 §a+10%%§7, 입력 §a-10%%",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.5": "§7안정화: 티어당 입출력 §a+50%%§7, 작업 시간 §a+25%%",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.6": "§7컨트롤러 슬롯의 Astral Array: 개당 출력 §d+0.001%%p§7 (100,000개 = §dx2§7)",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.7": "§7전력이 공급되는 동안 소우주가 항상 표시됩니다.",
+
+    "gtceu.eye_of_equilibrium": "평형의 눈",
+    "eyeofequilibrium.subtitle.eye_of_equilibrium": "평형의 눈이 울린다",
+
+    "eyeofequilibrium.astral_array.stored": "보관된 Astral Array: %s개",
+
+    "eyeofequilibrium.multiblock.spacetime_tier": "시공간 압축 평균 티어: %s",
+    "eyeofequilibrium.multiblock.time_tier": "시간 가속 평균 티어: %s",
+    "eyeofequilibrium.multiblock.stability_tier": "안정화 평균 티어: %s",
+    "eyeofequilibrium.multiblock.ore_bonus": "광석 생산량 보너스: x%s",
+    "eyeofequilibrium.multiblock.input": "입력: x%s",
+    "eyeofequilibrium.multiblock.output": "출력: x%s",
+    "eyeofequilibrium.multiblock.duration": "작업 시간: x%s",
+    "eyeofequilibrium.multiblock.astral_arrays": "Astral Array: %s개 (+%s%%)",
+    "eyeofequilibrium.multiblock.total_output": "최종 출력: x%s",
+    "eyeofequilibrium.multiblock.no_selection": "선택된 광맥 없음",
+    "eyeofequilibrium.multiblock.selected_veins": "선택된 광맥: %s개",
+    "eyeofequilibrium.multiblock.ore_per_cycle": "광맥·광물당 사이클 산출량: %s",
+
+    "eyeofequilibrium.gui.astral_slot.title": "Astral Array 보관함",
+    "eyeofequilibrium.gui.astral_slot.count": "보관: %s개",
+    "eyeofequilibrium.gui.astral_slot.bonus": "출력 보너스: +%s%%",
+    "eyeofequilibrium.gui.astral_slot.help.0": "Astral Array를 들고 클릭하면 넣습니다 (우클릭: 1개)",
+    "eyeofequilibrium.gui.astral_slot.help.1": "빈손으로 클릭하면 한 묶음을 꺼냅니다 (우클릭: 1개)",
+    "eyeofequilibrium.gui.astral_slot.help.2": "Shift+클릭 시 인벤토리의 모든 Astral Array를 넣습니다",
+
+    "eyeofequilibrium.gui.vein_selector.title": "광맥 선택",
+    "eyeofequilibrium.gui.vein_selector.tooltip": "채굴할 광맥을 선택합니다. 구성이 같거나 부분집합인 광맥은 그룹으로 묶이며 > 로 펼칩니다",
+    "eyeofequilibrium.gui.vein_selector.selected": "선택: %s개",
+    "eyeofequilibrium.gui.vein_selector.clear": "전체 해제",
+    "eyeofequilibrium.gui.vein_selector.back": "뒤로"
+}
