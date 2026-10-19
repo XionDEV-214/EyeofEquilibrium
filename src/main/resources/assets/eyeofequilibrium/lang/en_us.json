@@ -3,7 +3,7 @@
 
     "block.eyeofequilibrium.eye_of_equilibrium.tooltip.0": "§7§oA pocket universe held in perfect balance around a captive star.",
     "block.eyeofequilibrium.eye_of_equilibrium.tooltip.1": "§7Stellar matter recipes run in §b5 hour§7 cycles.",
-    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.2": "§7Selected ore veins yield §b1,024,000§7 raw ore per material per cycle, with no extra power draw.",
+    "block.eyeofequilibrium.eye_of_equilibrium.tooltip.2": "§7Selected ore veins yield §b512,000§7 raw ore per material per cycle, with no extra power draw.",
     "block.eyeofequilibrium.eye_of_equilibrium.tooltip.3": "§7Spacetime Compression: §a+25%%§7 output and §a+10%%§7 ore output per tier.",
     "block.eyeofequilibrium.eye_of_equilibrium.tooltip.4": "§7Time Acceleration: §a+10%%§7 ore output and §a-10%%§7 input per tier.",
     "block.eyeofequilibrium.eye_of_equilibrium.tooltip.5": "§7Stabilisation: §a+50%%§7 input/output and §a+25%%§7 duration per tier.",
